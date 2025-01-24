@@ -2,7 +2,6 @@
     margin: 0;
     box-sizing: border-box;
     padding: 0;
-    background-color: #1C3144;
 }
 
 header {
@@ -12,6 +11,7 @@ header {
     font-weight: 800;
     margin: 0 auto;
     color: #b1a08a;
+    background-color: #1C3144
 }
 
 img {
@@ -42,17 +42,14 @@ img {
     text-decoration: underline;
 }
 
-.wbb, 
-.wbb * {
+.wbb{
     background-color: #885053;
 }
 
-.su, 
-.su * {
+.su{
     background-color: #F6F7EB;
 }
 
-.at,
-.at * {
+.at{
     background-color: #F1D3DF;
 }
