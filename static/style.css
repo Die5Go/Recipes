@@ -11,7 +11,11 @@ header {
     font-weight: 800;
     margin: 0 auto;
     color: #b1a08a;
-    background-color: #1C3144
+}
+
+.img {
+    text-align: center;
+    margin: 0 auto;
 }
 
 img {
@@ -31,6 +35,10 @@ img {
     font-size: 24px;
 }
 
+.cartoons div {
+    padding: 10px 0;
+}
+
 .cartoons h3 {
     font-weight: 200;
     color: #b1a08a;
@@ -42,14 +50,14 @@ img {
     text-decoration: underline;
 }
 
-.wbb{
+.wbb {
     background-color: #885053;
 }
 
-.su{
+.su {
     background-color: #F6F7EB;
 }
 
-.at{
+.at {
     background-color: #F1D3DF;
 }
