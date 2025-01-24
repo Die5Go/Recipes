@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    background-color: #1C3144;
+}
+
+header {
+    padding: 8px 24px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    margin: 0 auto;
+    color: #b1a08a;
+}
+
+.img {
+    text-align: center;
+    margin: 0 auto;
+}
+
+img {
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 12px;
+    margin: 16px;
+}
+
+.cartoons {
+    text-align: center;
+    margin: 0 auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 100%;
+    font-size: 24px;
+}
+
+.cartoons h3 {
+    font-weight: 200;
+    color: #b1a08a;
+}
+
+.cartoons a {
+    text-decoration: none;
+    color: #253d5b;
+    text-decoration: underline;
+}
+
+.wbb, 
+.wbb * {
+    background-color: #885053;
+}
+
+.su, 
+.su * {
+    background-color: #F6F7EB;
+}
+
+.at,
+.at * {
+    background-color: #F1D3DF;
+}
