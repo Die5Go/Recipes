@@ -10,7 +10,8 @@ header {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     font-weight: 800;
     margin: 0 auto;
-    color: #b1a08a;
+    background-color: #b1a08a;
+    color: #253d5b;
 }
 
 .img {
@@ -60,4 +61,13 @@ img {
 
 .at {
     background-color: #F1D3DF;
+}
+
+footer {
+    text-align: center;
+    background-color: #b1a08a;
+    padding: 20px;
+    color: #253d5b;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
 }
